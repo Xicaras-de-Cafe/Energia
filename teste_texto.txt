@@ -1,8 +1,0 @@
-
-<<<<<<< HEAD
-Segunda linha
-
-mais uma linha
-=======
-terceira linha
->>>>>>> fe56e7d66c06ab85f541d65bce82f25e320df6e8
